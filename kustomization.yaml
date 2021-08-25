@@ -5,4 +5,4 @@ namespace: dex
 commonLabels:
   app: dex
 bases:
-  - "https://github.com/usrbinkat/dex/tree/master/examples/k8s?ref=master"
+- "https://github.com/usrbinkat/dex/tree/master/examples/k8s?ref=master"
